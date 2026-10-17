@@ -1,3 +1,5 @@
+-- alteração teste
+
 --- @param player player
 --- @param aclGroupName string
 --- @return boolean
