@@ -1,6 +1,5 @@
 local REPOSITORY = "https://raw.githubusercontent.com/padilhath/mta-helpers/main/"
 
--- [caminho remoto] = [caminho local]
 local FILES = {
 	["autoUpdater.lua"] = "lib/autoUpdater.lua",
 	["helpers.lua"] = "lib/helpers.lua",
